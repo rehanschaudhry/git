@@ -13,7 +13,7 @@ https://github.com/rehanschaudhry/git/assets/35706356/66c7ff87-cb9e-4b36-8b63-91
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
-<img width="516" alt="image" src="https://github.com/rehanschaudhry/git/assets/35706356/ac6eec84-d077-46ed-8eb2-02f280bfb15f">
+https://github.com/rehanschaudhry/git/assets/35706356/ac6eec84-d077-46ed-8eb2-02f280bfb15f
 
 
 ### Task 2
