@@ -10,12 +10,12 @@
     * `git add <filename>` then `git commit`
 6. Write a suitable commit message and finalize your commit
 7. 📸 Take a screenshot of your terminal output
-8. https://github.com/rehanschaudhry/git/assets/35706356/9e8dc4fb-718b-4e85-96bf-6a585134f0e9
+8. src = "https://github.com/rehanschaudhry/git/assets/35706356/9e8dc4fb-718b-4e85-96bf-6a585134f0e9"
 
 9. Show the commit history
     * `git log`
 10. 📸 Take a screenshot of your terminal output
-11. https://github.com/rehanschaudhry/git/assets/35706356/e24ce3cd-d8e5-46be-881c-7c668c8b3f47
+11. src = "https://github.com/rehanschaudhry/git/assets/35706356/e24ce3cd-d8e5-46be-881c-7c668c8b3f47"
 
 ### Task 2
 1. Create a new public repository on GitHub
